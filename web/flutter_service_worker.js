@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "13fa209d08c24e8592ebc68c6a15b1b3",
-"index.html": "9a5f584f524909bfe735ec525a0af7df",
-"/": "9a5f584f524909bfe735ec525a0af7df",
-"main.dart.js": "06c9fba7ab8192d8eb7bfe013d355cbf",
+"index.html": "c7c2f130d027dc104c86d6a199a36391",
+"/": "c7c2f130d027dc104c86d6a199a36391",
+"main.dart.js": "f6e30a57ca702a8bdc482ce7d238cfd7",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -16,7 +16,7 @@ const RESOURCES = {
 "assets/images/lake.jpg": "236690c07321de26550682c399675fb4",
 "assets/images/sakura.jpg": "1c49ed4e3768be215ec9044219dd29a4",
 "assets/AssetManifest.json": "e42d0d3d4c371304980f567c65eb7d3f",
-"assets/NOTICES": "89868514ffdafcfe5be12ffaa5f58a03",
+"assets/NOTICES": "356d8ad65b7bbdc63b5a134040c8b9d3",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
